@@ -1,1 +1,2 @@
-Bỏ source code hoặc link github vào đây.
+Link bài tập:
+https://github.com/phantranhieunhan/react-llm-demo
